@@ -7,6 +7,9 @@ TagManager:
   - Enemy
   - Laser
   - Planet
+  - Life 1
+  - Life 2
+  - Life 3
   layers:
   - Default
   - TransparentFX
