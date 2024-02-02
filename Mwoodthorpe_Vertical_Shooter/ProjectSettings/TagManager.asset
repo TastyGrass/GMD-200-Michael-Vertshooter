@@ -10,14 +10,17 @@ TagManager:
   - Life 1
   - Life 2
   - Life 3
+  - Enemy 2
+  - Enemy 3
+  - Powerup1
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Enemy 1
   - Water
   - UI
-  - 
+  - Enemy 2
   - 
   - 
   - 
@@ -52,4 +55,7 @@ TagManager:
     locked: 0
   - name: Front
     uniqueID: 4077516035
+    locked: 0
+  - name: P-up
+    uniqueID: 3333543401
     locked: 0
