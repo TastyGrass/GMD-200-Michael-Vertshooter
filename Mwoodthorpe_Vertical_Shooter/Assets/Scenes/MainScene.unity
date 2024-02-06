@@ -2683,7 +2683,7 @@ MonoBehaviour:
   enemy3two: {fileID: 1088189859}
   timer1: 10
   timer2: 10
-  timer3: 25
+  timer3: 2
 --- !u!114 &1647210108
 MonoBehaviour:
   m_ObjectHideFlags: 0
