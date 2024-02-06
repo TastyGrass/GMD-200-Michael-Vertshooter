@@ -13,6 +13,7 @@ TagManager:
   - Enemy 2
   - Enemy 3
   - Powerup1
+  - Events
   layers:
   - Default
   - TransparentFX
